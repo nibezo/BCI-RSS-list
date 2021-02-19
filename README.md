@@ -1,4 +1,4 @@
-# BCI-RSS-list 🧠
+# BCI RSS list: articles and etc.🧠
 «List of neuroscience-related RSS feeds, with focus on peer-reviewed articles on BCI/EEG»🦾
 If you know something which need be include in the list, fork it or write an issue here. 
 
