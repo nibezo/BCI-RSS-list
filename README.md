@@ -1,5 +1,6 @@
 # BCI-RSS-list 🧠
 «List of neuroscience-related RSS feeds, with focus on peer-reviewed articles on BCI/EEG»🦾
+If you know something which need be include in the list, fork it or write an issue here. 
 
 Thank [eegdude](https://github.com/eegdude) for it: gist.github.com/eegdude👏
 
