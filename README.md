@@ -1,11 +1,14 @@
 # BCI-RSS-list 🧠
-List of neuroscience-related RSS feeds, with focus on peer-reviewed articles on BCI/EEG🦾
+«List of neuroscience-related RSS feeds, with focus on peer-reviewed articles on BCI/EEG»🦾
 
 Thank [eegdude](https://github.com/eegdude) for it: gist.github.com/eegdude👏
 
 You can use [Feeder](https://feeder.co) for RSS feed. Like it: 
 
-### Block with RSS:
+![alt text](https://github.com/nibezo/BCI-RSS-list/blob/main/1.png "Logo Title Text 1")
+
+To have the same you need sign up on Feeder and go to [Feeder's settings](https://feeder.co/settings/import-export) and import [the file.](https://github.com/nibezo/BCI-RSS-list/blob/main/BCI%20-%20RSS%20feed.opml) That's all. 
+## Block with RSS:
 ```opl
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
